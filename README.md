@@ -1,4 +1,4 @@
-# WP REST API - Filter posts date wise using given column
+# WP REST API - Filter posts
 
 ## Usage
 
